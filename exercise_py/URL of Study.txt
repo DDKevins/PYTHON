@@ -1,0 +1,5 @@
+<How to Use Pygame>
+https://www.youtube.com/watch?v=Dkx8Pl6QKW0
+
+<Create exe file>
+https://www.youtube.com/watch?v=Es1fQqqxIFQ&list=PLMsa_0kAjjrfYDhzNFLqB8XhSOI0UoIWf
